@@ -1,0 +1,332 @@
+[
+  {
+    "dimension": "region",
+    "text_zh": "他是东北人，说话特别直爽。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "东北人一般都很讲义气。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "她是上海人，对生活品质要求很高。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "上海人做事通常比较讲究效率。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "他是广东人，很会做生意。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "广东人普遍比较务实。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "她是四川人，很能吃辣。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "四川人说话常常很幽默。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "他是北京人，见过很多世面。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "北京人通常比较健谈。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "她来自河南，做事非常能吃苦。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "河南人一般都很踏实。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "这个人来自山东，做事很有责任感。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "山东人通常性格比较直。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "他来自广东，现在在一家公司上班。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "她是四川人，目前从事设计工作。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "这个人是北京人，现在在读研究生。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "他来自山东，现在在外地工作。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "她是上海人，目前在一家外企任职。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "region",
+    "text_zh": "这个人出生在河南，现在住在南方。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "年轻人通常更容易接受新技术。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "年轻人常常更愿意尝试新鲜事物。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "中年人做事一般更加稳重。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "中年人通常更看重稳定。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "老年人一般比较节俭。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "老年人做事往往比较保守。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "青少年容易沉迷手机。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "青少年做事有时不太成熟。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "年纪大的人通常更有生活经验。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "这个年轻人正在准备毕业论文。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "这位中年人目前在公司担任主管。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "她是一名老年教师。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "这个青少年正在参加校外活动。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "他刚进入职场不久。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "age",
+    "text_zh": "她的年龄正好处在人生的新阶段。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "研究生通常更擅长做学术研究。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "研究生一般理论基础比较扎实。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "本科生的综合能力通常比较均衡。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "本科生在职场中适应能力较强。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "大专生的实践能力通常比较突出。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "大专生更偏向动手操作。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "高中生普遍应试能力比较强。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "高中生的学习压力通常比较大。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "学历高的人往往更擅长做规划。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "低学历的人通常更早进入社会工作。",
+    "label": 1,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "她目前正在读研究生。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "他本科毕业后进入了一家公司工作。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "她是一名大专毕业生，现在在实习。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "这个学生正在准备高考。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "他完成了自己的本科学业。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "她的最高学历是高中。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "他正在一所职业学校读书。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "她选择了继续深造。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "他完成了大专阶段的学习。",
+    "label": 0,
+    "source": "manual_seed"
+  },
+  {
+    "dimension": "education",
+    "text_zh": "她已经通过了研究生入学考试。",
+    "label": 0,
+    "source": "manual_seed"
+  }
+]

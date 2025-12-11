@@ -1,0 +1,20 @@
+# Ignore model checkpoints (huge files)
+Chinese model/model_outputs/
+Chinese model/model_outputs_macbert/
+
+# Ignore the original HEARTS repository
+HEARTS-Text-Stereotype-Detection-main/
+
+# Ignore API keys
+Data/api_key.txt
+Data/api_deepseek.txt
+
+# Ignore large model-related files
+*.bin
+*.pt
+*.safetensors
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
